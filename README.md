@@ -13,4 +13,4 @@
 + [Kurs İçeriği temel kısım](https://github.com/CSD-1993/Online-Go-Programlama-Dili-ve-Uygulama-Gelistirme/blob/main/kurs_icerigi.md))
 + [Kurs içeriği uygulama](https://github.com/CSD-1993/Online-Go-Programlama-Dili-ve-Uygulama-Gelistirme/blob/main/kurs_tanitimi_uygulama.md)
 + [Sık Sorulan Sorular](https://github.com/CSD-1993/Online-Go-Programlama-Dili-ve-Uygulama-Gelistirme/blob/main/sss.md)
-+ [Kursa buradan kayıt olabilirsiniz]()
++ [Kursa buradan kayıt olabilirsiniz](https://us02web.zoom.us/meeting/register/tZMucu-pqT0tHtEhsZhWGf_jQeJodxJ7Bpcf )
