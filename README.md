@@ -3,7 +3,7 @@
  Kurs [__C ve Sistem Programcıları Derneği__](http://www.csystem.org/) tarafından düzenlenmektedir.
 + Kurs __ 9 Eylül 2023 Cumartesi__ günü başlayacaktır.
 + __Kurs gerçek zamanlıdır.__ Önceden kayıt edilmiş derslerin izlenmesi biçiminde değildir. Öğrenciler ders sırasında eğitmene soru sorabilirler.
-+ Kursta irili ufaklı birçok profesyonel kodlar yazılacak ve profesyonel uygulamalar yapılacaktır
++ Kursta irili ufaklı birçok profesyonel kod yazılacak ve profesyonel uygulamalar yapılacaktır
 + Kurs eğitmeni __Oğuz Karan__'dır.
 + Kurs gerçek zamanlıdır.
 + Toplam kurs süresi __160__ saattir. Dersler __Cumartesi - Pazar__ günleri __09:00 - 13:00__ saatleri arasında yapılacaktır.
