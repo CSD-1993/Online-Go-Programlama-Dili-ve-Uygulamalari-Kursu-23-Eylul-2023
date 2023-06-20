@@ -310,4 +310,4 @@ XXXXXXXXXXXXXXX
 + Örnek programlar
 # Kursa Kayıt
 Kursa aşağıdaki bağlantıdan ön kayıt yaptırabilirsiniz:<br>
-[Kursa Kayıt](https://us02web.zoom.us/meeting/register/tZMkfumqqT8rE9X7M7_LrrQEN8X3q0QLYDPx)
+[Kursa Kayıt](https://us02web.zoom.us/meeting/register/tZMucu-pqT0tHtEhsZhWGf_jQeJodxJ7Bpcf )
