@@ -7,7 +7,7 @@
 + Kurs eğitmeni __Oğuz Karan__'dır.
 + Kurs gerçek zamanlıdır.
 + Toplam kurs süresi __160__ saattir. Dersler __Cumartesi - Pazar__ günleri __09:00 - 13:00__ saatleri arasında yapılacaktır.
-+ Kursumuzun toplam ücreti KDV dahil 9.200 TL’dir(Peşin ödemede 8.300 TL’dir). Öğrenciler için kurs ücreti (öğrencilik durumunu belgelemeleri kaydıyla) KDV dahil 8.300 TL’dir (peşin ödemede 7.500 TL’dir). Kurs ücretini havale yöntemiyle peşin ya da 2 taksit olarak ödeyebilirsiniz.
++  Kursumuzun toplam ücreti KDV dahil __9.200__ TL’dir(Peşin ödemede __8.300__ TL’dir). Öğrenciler için kurs ücreti (öğrencilik durumunu belgelemeleri kaydıyla) KDV dahil __8.300__ TL’dir (peşin ödemede __7.500__ TL’dir). Kurs ücretini havale yöntemiyle peşin ya da 2 taksit olarak ödeyebilirsiniz.
 
 ## Kursla ilgili bağlantılar
 + [Kurs Tanıtımı](https://github.com/CSD-1993/Online-Go-Programlama-Dili-ve-Uygulama-Gelistirme/blob/main/kurs_tanitimi.md)
