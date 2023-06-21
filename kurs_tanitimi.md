@@ -23,10 +23,10 @@ ve geliştirilmesi gibi profesyonel uygulamalar da geliştirilecektir.
 Bu programa katılabilmek için daha önce programlama ile tanışmış olmanız gerekmektedir. Derneğimizde düzenlenmekte olan _Programlamaya Giriş_ ya da benzeri bir programı tamamlamış olmalısınız.
 
 ## Eğitim Süresi
-Programın toplam süresi __160__ saattir.
+Programın toplam süresi __180__ saattir.
 
 ## Ders Günleri ve Saatleri
-Dersler hafta içi __Cumartesi - Pazar__ günleri saat __09:00 - 13:00__ saatleri arasında __4__'er saat olarak yapılacaktır.
+Dersler hafta içi __Cumartesi - Pazar__ günleri saat __17:00 - 21:00__ saatleri arasında __4__'er saat olarak yapılacaktır.
 
 
 ## Eğitim İçeriği
@@ -75,7 +75,7 @@ Eğitim ve danışmanlık verdiği kurumlar arasında
 _Go Programlama Dili ve Uygulamaları_ kursu ilgili eğitim materyalleri program süresince öğrencilerle paylaşılmaktadır. Derslerde yazılan tüm kodlar ve verilen ödevler katılımcılar ile _dropbox_ üzerinden paylaşılmaktadır.
 
 ## Eğitim Ücreti
- Kursumuzun toplam ücreti KDV dahil __9.200__ TL’dir(Peşin ödemede __8.300__ TL’dir). Öğrenciler için kurs ücreti (öğrencilik durumunu belgelemeleri kaydıyla) KDV dahil __8.300__ TL’dir (peşin ödemede __7.500__ TL’dir). Kurs ücretini havale yöntemiyle peşin ya da 2 taksit olarak ödeyebilirsiniz.
+ Kursumuzun toplam ücreti KDV dahil __12.500__ TL’dir(Peşin ödemede __11.250__ TL’dir). Öğrenciler için kurs ücreti (öğrencilik durumunu belgelemeleri kaydıyla) KDV dahil __11.220__ TL’dir (peşin ödemede __10.150__ TL’dir). Kurs ücretini havale yöntemiyle peşin ya da 2 taksit olarak ödeyebilirsiniz.
  
 ## Eğitim Programına Kayıt
 [Katılım için önce ön kayıt yaptırmalısınız]( https://us02web.zoom.us/meeting/register/tZMucu-pqT0tHtEhsZhWGf_jQeJodxJ7Bpcf ). Ön kayıt yaptırırken kendi isminizi ve e-posta adresinizi kullanmalısınız.
