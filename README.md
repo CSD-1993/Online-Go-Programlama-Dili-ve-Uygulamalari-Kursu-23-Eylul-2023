@@ -1,7 +1,7 @@
 # Online-Go-Programlama-Dili-ve-Uygulamaları
 
  Kurs [__C ve Sistem Programcıları Derneği__](http://www.csystem.org/) tarafından düzenlenmektedir.
-+ Kurs __ 9 Eylül 2023 Cumartesi__ günü başlayacaktır.
++ Kurs __ 23 Eylül 2023 Cumartesi__ günü başlayacaktır.
 + __Kurs gerçek zamanlıdır.__ Önceden kayıt edilmiş derslerin izlenmesi biçiminde değildir. Öğrenciler ders sırasında eğitmene soru sorabilirler.
 + Kursta irili ufaklı birçok profesyonel kod yazılacak ve profesyonel uygulamalar yapılacaktır
 + Kurs eğitmeni __Oğuz Karan__'dır.
