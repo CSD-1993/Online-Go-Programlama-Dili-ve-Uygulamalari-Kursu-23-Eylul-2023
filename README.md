@@ -1,6 +1,6 @@
 # Online-Go-Programlama-Dili-ve-Uygulamaları
 
- Kurs [__C ve Sistem Programcıları Derneği__](http://www.csystem.org/) tarafından düzenlenmektedir.
+ Kurs [__C ve Sistem Programcıları Derneği__](http://www.csystem.org/) ve Sistem Bilgisayar iş birliği ile düzenlenmektedir.
 + Kurs __ 23 Eylül 2023 Cumartesi__ günü başlayacaktır.
 + __Kurs gerçek zamanlıdır.__ Önceden kayıt edilmiş derslerin izlenmesi biçiminde değildir. Öğrenciler ders sırasında eğitmene soru sorabilirler.
 + Kursta irili ufaklı birçok profesyonel kod yazılacak ve profesyonel uygulamalar yapılacaktır
@@ -11,7 +11,7 @@
 
 ## Kursla ilgili bağlantılar
 + [Kurs Tanıtımı](https://github.com/CSD-1993/Online-Go-Programlama-Dili-ve-Uygulama-Gelistirme/blob/main/kurs_tanitimi.md)
-+ [1. Temel Kısım](https://github.com/CSD-1993/Online-Go-Programlama-Dili-ve-Uygulama-Gelistirme/blob/main/kurs_icerigi.md)
-+ [2. Uygulama Kısmı](https://github.com/CSD-1993/Online-Go-Programlama-Dili-ve-Uygulamalari-Kursu-9-Eylul-2023/blob/main/kurs_i%C3%A7eri%C4%9Fi_uygulama.md)
++ [Kurs İçeriği - 1. Temel Kısım](https://github.com/CSD-1993/Online-Go-Programlama-Dili-ve-Uygulama-Gelistirme/blob/main/kurs_icerigi.md)
++ [Kurs İçeriği - 2. Uygulama Kısmı](https://github.com/CSD-1993/Online-Go-Programlama-Dili-ve-Uygulamalari-Kursu-9-Eylul-2023/blob/main/kurs_i%C3%A7eri%C4%9Fi_uygulama.md)
 + [Sık Sorulan Sorular](https://github.com/CSD-1993/Online-Go-Programlama-Dili-ve-Uygulama-Gelistirme/blob/main/sss.md)
 + [Kursumuza ön kayıt yaptırmak için bu bağlantıyı kullanabilirsiniz.](https://us02web.zoom.us/meeting/register/tZMucu-pqT0tHtEhsZhWGf_jQeJodxJ7Bpcf )
