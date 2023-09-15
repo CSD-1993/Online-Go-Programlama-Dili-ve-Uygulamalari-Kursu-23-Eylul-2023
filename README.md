@@ -1,4 +1,4 @@
-# Online-Go-Programlama-Dili-ve-Uygulamaları
+# Online Go Programlama Dili ve Uygulamaları Kursu
 
  Kurs [__C ve Sistem Programcıları Derneği__](http://www.csystem.org/) ve Sistem Bilgisayar iş birliği ile düzenlenmektedir.
 + Kurs __ 23 Eylül 2023 Cumartesi__ günü başlayacaktır.
