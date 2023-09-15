@@ -11,7 +11,7 @@
 
 ## Kursla ilgili bağlantılar
 + [Kurs Tanıtımı](https://github.com/CSD-1993/Online-Go-Programlama-Dili-ve-Uygulama-Gelistirme/blob/main/kurs_tanitimi.md)
-+ [Kurs İçeriği temel](https://github.com/CSD-1993/Online-Go-Programlama-Dili-ve-Uygulama-Gelistirme/blob/main/kurs_icerigi.md)
-+ [Kurs içeriği uygulama](https://github.com/CSD-1993/Online-Go-Programlama-Dili-ve-Uygulamalari-Kursu-9-Eylul-2023/blob/main/kurs_i%C3%A7eri%C4%9Fi_uygulama.md)
++ [1. Temel Kısım](https://github.com/CSD-1993/Online-Go-Programlama-Dili-ve-Uygulama-Gelistirme/blob/main/kurs_icerigi.md)
++ [2. Uygulama Kısmı](https://github.com/CSD-1993/Online-Go-Programlama-Dili-ve-Uygulamalari-Kursu-9-Eylul-2023/blob/main/kurs_i%C3%A7eri%C4%9Fi_uygulama.md)
 + [Sık Sorulan Sorular](https://github.com/CSD-1993/Online-Go-Programlama-Dili-ve-Uygulama-Gelistirme/blob/main/sss.md)
 + [Kursumuza ön kayıt yaptırmak için bu bağlantıyı kullanabilirsiniz.](https://us02web.zoom.us/meeting/register/tZMucu-pqT0tHtEhsZhWGf_jQeJodxJ7Bpcf )
