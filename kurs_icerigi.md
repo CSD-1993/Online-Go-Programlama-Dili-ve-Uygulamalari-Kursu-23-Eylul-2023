@@ -1,4 +1,4 @@
-# Online Go Programlama Dili ve Uygulama Geliştirme
+# Online Go Programlama Dili ve Uygulamaları Kursu - 1. Temel Kısım
 
 
 ## Temel kavramlar
