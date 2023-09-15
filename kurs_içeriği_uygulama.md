@@ -1,4 +1,4 @@
-# Online Go Programlama Dili ve Uygulama Geliştirme
+# Online Go Programlama Dili ve Uygulamaları Kursu - 2. Uygulama Kısmı
 
 * __Genel Amaçlı Bazı İşlemlerin Gerçekleştirilmesi__
   * Standart Kütüphanede Tarih ve Zaman İşlemleri
